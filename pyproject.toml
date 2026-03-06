@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hyperbolica"
+version = "0.1.0"
+description = "Hyperbolic geometry primitives for AI, routing, and terrain-like indexing"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Issac Davis" }]
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+hyperbolica = "hyperbolica.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
