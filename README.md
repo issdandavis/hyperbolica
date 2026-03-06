@@ -28,3 +28,12 @@ print(poincare_distance(u, v))
 - Open core on PyPI
 - Pro add-on package (`hyperbolica-pro`) for advanced indexing + hosted API
 - Enterprise support for integration and performance tuning
+
+## Pricing (initial)
+- Open Core: `$0`
+- Pro Pack: `$79` one-time
+- Hosted API: `$29/mo`
+
+## Landing page
+- GitHub Pages source: `docs/index.html`
+- URL after Pages is enabled in repo settings: `https://issdandavis.github.io/hyperbolica/`
