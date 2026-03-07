@@ -1,5 +1,9 @@
 # Hyperbolica Sales Pack
 
+## Live checkout links
+- Pro Pack ($79): https://buy.stripe.com/aFa00k2pYcuj8cM262dby0b
+- API SaaS ($29/mo): https://buy.stripe.com/dRmdRa1lUfGv1Oo5iedby0c
+
 ## One-line pitch
 Hyperbolica is an open-core hyperbolic geometry toolkit for AI routing, indexing, and simulation systems.
 
