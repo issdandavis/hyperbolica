@@ -9,7 +9,7 @@ description = "Hyperbolic geometry toolkit — Poincaré disk operations, terrai
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
-authors = [{ name = "Hyperbolica", email = "hello@hyperbolica.dev" }]
+authors = [{ name = "Issac Davis" }]
 keywords = [
     "hyperbolic-geometry",
     "poincare-disk",
@@ -37,7 +37,7 @@ dev = ["pytest>=7.0", "httpx>=0.24"]
 [project.urls]
 Homepage = "https://hyperbolica.dev"
 Documentation = "https://hyperbolica.dev/docs"
-Repository = "https://github.com/hyperbolica/hyperbolica"
+Repository = "https://github.com/issdandavis/hyperbolica"
 API = "https://api.hyperbolica.dev"
 
 [project.scripts]

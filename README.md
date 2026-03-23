@@ -27,6 +27,11 @@ tiling = HyperbolicTiling(p=5, q=4)
 svg = tiling.to_svg()
 ```
 
+## Pricing
+- Open Core: `$0`
+- Pro Pack: `$79` one-time
+- Hosted API: `$29/mo`
+
 ## API
 
 Full API docs at https://hyperbolica.dev/docs
